@@ -1,16 +1,21 @@
-### Hi there 👋
+# Greetings wanderer! 🌱
+### You've found my profile 
 
-<!--
-**RI5HIT/RI5HIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Never stop learning
+- ✉️ Email me for business opportunities
 
-Here are some ideas to get you started:
+<p align="center">
+  <img name="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
+  <img name="angular" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img name="javascript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
+ <img name="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+ 
+ <img name="firebase" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100">
+
+ <img name="css3" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+ <img name="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+  <img name="github" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
+</p>
+
+
