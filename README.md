@@ -16,13 +16,13 @@
   <img name="github" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
 </p>
 
-<p align="center">
+<div align="center">
   
 ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
   
-</p>
-<p align="center">
+</div>
+<div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RI5HIT)
   
-</p>
+</div>
