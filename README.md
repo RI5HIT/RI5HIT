@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  
 ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
+  
 </p>
+<p align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RI5HIT)
+  
+</p>
