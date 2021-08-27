@@ -18,6 +18,5 @@
 
 <p align="center">
 ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RI5HIT)
-
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RI5HIT)
