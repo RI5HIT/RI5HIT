@@ -15,7 +15,7 @@
   
   <img name="github" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
 </div>
-
+<br/>
 <div align="center">
   
 ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
