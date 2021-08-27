@@ -14,12 +14,10 @@
    <img name="css3" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
   
   <img name="github" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
-  
-  ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
 </p>
 
 <p align="center">
-
 ![RISHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RI5HIT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RI5HIT)
 
 </p>
